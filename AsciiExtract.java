@@ -3,7 +3,7 @@
 import java.util.*;
 public class AsciiExtract{
 
-public static void main(String x[]){
+public static void main(String x[]){	
 Scanner sc = new Scanner(System.in);
 System.out.println("Enter a charactor which you want ascii value");
 char ch=sc.next().charAt(0);
